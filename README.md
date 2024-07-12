@@ -56,4 +56,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- SOAR-EDR Project
+- <a href="https://github.com/Paris0t/SOAR-EDR-Project">SOAR-EDR Lab</a>

@@ -12,12 +12,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">SOAR-EDR Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SOAR-EDR Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| EDR Implementation and Log Analysis          | <a href="https://github.com/Paris0t/SOAR-EDR-Project">SOAR-EDR Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Paris0t/SOAR-EDR-Project">SOAR-EDR Lab</a>|
+| Security Automation with SOAR         | <a href="https://github.com/Paris0t/SOAR-EDR-Project">SOAR-EDR Lab</a>|
+| Creation and customization of automated incident response workflows      | <a href="https://github.com/Paris0t/SOAR-EDR-Project">SOAR-EDR Lab</a>|
+| Integration of communication platforms (e.g., Slack) for alert notifications                  | <a href="https://github.com/Paris0t/SOAR-EDR-Project">SOAR-EDR Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Paris0t/SOAR-EDR-Project">SOAR-EDR Lab</a>|
+| Use of telemetry generation tools to simulate and analyze attack scenarios | <a href="https://github.com/Paris0t/SOAR-EDR-Project">SOAR-EDR Lab</a>|
 
 ## Tools
 

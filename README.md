@@ -1,70 +1,98 @@
-<h1 align="center">Nathan Parisot</h1>
-<h3 align="center">Security Engineer &bull; Python & TypeScript &bull; TS/SCI Cleared</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/nathan-parisot"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@ItsCynik"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://buymeacoffee.com/paris0t"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
-</p>
+# Hey, I'm Nathan 👋
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=InfoSec+by+day;Building+bots+that+work+while+I+sleep;Python+%7C+TypeScript+%7C+Linux;TS+cleared+%26+always+building)](https://git.io/typing-svg)
 
-I build things that run while I sleep. Security analyst by day — writing automation, trading bots, and developer tools by night. Currently doing vulnerability management and RMF compliance on DoD systems, and building autonomous systems in Python and TypeScript.
+[![GitHub followers](https://img.shields.io/github/followers/Paris0t?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Paris0t)
+[![GitHub User's stars](https://img.shields.io/github/stars/Paris0t?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/Paris0t)
+[![Profile Views](https://komarev.com/ghpvc/?username=Paris0t&style=for-the-badge&color=blueviolet)](https://github.com/Paris0t)
 
-### Projects
-
-**[Midas](https://github.com/Paris0t/midas-funding-bot)** `TypeScript` `Private`
-Autonomous multi-strategy trading engine for Hyperliquid perpetual futures. Runs two complementary strategies 24/7 — CTA V2 for trending markets, Pairs RV for mean reversion. A strategy coordinator detects the market regime and activates the right approach. Trades SOL, BTC, and ETH.
-
-**[JobSentry](https://github.com/Paris0t/JobSentry)** `Python`
-AI-powered job discovery CLI for cleared professionals. Scrapes ClearanceJobs, LinkedIn, and Indeed — scores every listing against your profile using Claude AI — emails you a daily digest with top matches and your resume attached. Built with Playwright, SQLAlchemy, Anthropic SDK.
-
-**[SOAR-EDR Lab](https://github.com/Paris0t/SOAR-EDR-Project)**
-Detection and response lab with LimaCharlie EDR, Tines SOAR, and TheHive for case management. Automated incident triage workflows with Slack/email alerting and end-to-end response playbooks.
-
-**[Debt Destroyer](https://github.com/Paris0t/debt-tracker)** `HTML/JS`
-Offline-first debt payoff tracker using the avalanche method. Visual progress bars, payment logging, calendar export — all client-side with zero backend.
-
-**Homelab**
-Self-hosted Proxmox environment on 24/7 hardware — Pi-hole/Unbound for recursive DNS, Vaultwarden with YubiKey FIDO2/WebAuthn, Tailscale mesh VPN, Uptime Kuma monitoring, Grafana dashboards. Everything containerized via Docker/Portainer.
-
-### Tech
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tenable%20ACAS-339933?style=flat-square" />
-  <img src="https://img.shields.io/badge/-eMASS-003366?style=flat-square" />
-  <img src="https://img.shields.io/badge/-NIST%20800--53-003366?style=flat-square" />
-  <img src="https://img.shields.io/badge/-DISA%20STIGs-8B0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailscale-0A1A2F?style=flat-square&logo=tailscale&logoColor=white" />
-</p>
-
-### Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-EA161F?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/LPI-Linux%20Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-**M.S. Cybersecurity** &bull; Saint Leo University &bull; 2024
-**B.S. Computer Science** &bull; Saint Leo University &bull; 2023
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paris0t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paris0t&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+*I do security during the day and automate everything else at night* 🌙
+
+</div>
+
+---
+
+## 🔭 What I'm Building
+
+<div align="center">
+
+| Project | What It Does |
+|---------|-------------|
+| **[Midas](https://github.com/Paris0t/midas-funding-bot)** 🔒 | Autonomous crypto trading engine — dual-strategy coordinator running CTA + Pairs RV on Hyperliquid perpetuals 24/7 |
+| **[JobSentry](https://github.com/Paris0t/JobSentry)** | AI job hunter — scrapes boards, scores with Claude, emails me the best matches every morning |
+| **[SOAR-EDR Lab](https://github.com/Paris0t/SOAR-EDR-Project)** | Detection & response lab — LimaCharlie + Tines + TheHive with automated triage |
+| **Homelab** | Proxmox server running Pi-hole, Vaultwarden + YubiKey, Tailscale VPN, Grafana — all dockerized |
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Paris0t&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+🔒 Day job       InfoSec Analyst — vuln management, RMF, STIGs
+💹 Side project   Midas (autonomous trading on Hyperliquid)
+🤖 Other          Building with Claude Code & AI agents
+🏠 Homelab        Self-hosting everything I can
+⚡ Fun fact       I built a bot that got me my job
+```
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paris0t)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-parisot)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ItsCynik)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/paris0t)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+*automate everything, trust nothing*
+
+</div>

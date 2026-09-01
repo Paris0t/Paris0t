@@ -38,7 +38,7 @@
 | **[Midas](https://github.com/Paris0t/midas-funding-bot)**  | A funding-rate collection bot for Hyperliquid perpetuals |
 | **[JobSentry](https://github.com/Paris0t/JobSentry)** | AI job hunter — scrapes boards, scores with Claude, emails me the best matches every morning |
 | **[SOAR-EDR Lab](https://github.com/Paris0t/SOAR-EDR-Project)** | Detection & response lab — LimaCharlie + Tines + TheHive with automated triage |
-| **Homelab** | Proxmox server running Pi-hole, Vaultwarden + YubiKey, Tailscale VPN, Grafana — all dockerized |
+| **[Homelab](https://github.com/Paris0t/homelab)** | Proxmox server running Pi-hole, Vaultwarden + YubiKey, Tailscale VPN, Grafana — all dockerized |
 
 </div>
 
